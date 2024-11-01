@@ -18,9 +18,9 @@ public class SpringMvcApplication implements CommandLineRunner {
     }
  @Override
     public void run(String... args) throws Exception{
-       /* patientRepository.save(new Patient(null,"oussama","hajjiri", new Date(),false));
-     patientRepository.save(new Patient(null,"hakim","ziyech", new Date(),false));
-     patientRepository.save(new Patient(null,"othman","chligi", new Date(),true));
-     patientRepository.save(new Patient(null,"hicham","lamrini", new Date(),false)); */
+        /* patientRepository.save(new Patient(null,"messi","leo", new Date(),false));
+     patientRepository.save(new Patient(null,"hakim","benbouanane", new Date(),false));
+     patientRepository.save(new Patient(null,"mbappé","kylian", new Date(),true));
+     patientRepository.save(new Patient(null,"justin","bieber", new Date(),false)); */
  }
 }
