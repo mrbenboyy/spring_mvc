@@ -4,4 +4,4 @@
 <p>Recherche</p>
 <img src="./src/images/pic2.jpeg" />
 <p>Suppression</p>
-<img src="./src/images/pic3.jpeg" />
+<img src="./src/images/pic3.PNG" />
